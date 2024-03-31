@@ -1,6 +1,6 @@
 # Demo
 
-(https://nihaldas.netlify.app/)
+https://nihaldas.netlify.app/
 
 # Getting Started with Create React App
 
