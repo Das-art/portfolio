@@ -6,7 +6,7 @@ export const Educations=[
       college:'College Of Engineering Chengannur',
       startYear:'2020',
       endYear:'2023',
-      mark:'6.61 Cgpa',
+      mark:'6.64 Cgpa',
       desc: 'Studied computer science engineering with a focus on software development and algorithms.',
     },
     {
